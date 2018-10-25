@@ -38,7 +38,7 @@ public enum CardinalPoint {
     }
 
     // constant-specific method
-
+    // toutes mes constantes doivent implémenter cette méthode
     public abstract String getPreferedSport();
 
 }
